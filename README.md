@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="800" src="./github-header-image.png">
+<img align="middle" alt="Coding" width="800" src="./fusion.PNG">
 
 [![](https://visitcount.itsvg.in/api?id=seyed-behzad-hosseini&icon=5&color=12)](https://visitcount.itsvg.in)
 
